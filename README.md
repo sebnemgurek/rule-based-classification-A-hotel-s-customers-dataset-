@@ -1,5 +1,7 @@
 # Rule-based-classification-A-hotel-s-customers-dataset-
 
+# Aim: Categorize new customers by segment and predict how much revenue they can generate
+
 This real-world customer dataset with 31 variables describes 83,590 instances (customers) from a hotel in Lisbon, Portugal.
 
 # Content
